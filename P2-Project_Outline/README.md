@@ -7,12 +7,19 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+Create a simple Budget Web App to help users to get out of debt as quick as possible by giving them access to register and save their debts(credit cards, loans, etc.…)
+
 ### Features
-Include Features here
+Create/Edit/Delete Debt Category, 
+Create/EDit/Delete Debt SubCategory, 
+Create/Delete/Edit DebtDetails, 
+Admin to View Users/Lock/Unlock/Delete Users
+
 ### Technologies
-Include Technologies here
+ASP.NET Core MVC, HTML5, CSS3, Bootstrap, C#, LINQ, Razor Pages, JavaScript
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+LINQ, SQL Server, Razor Pages, Ajax
+
 ### Project Tracker
-Link to your Trello board here
+Trello : https://trello.com/b/wx4w9HXO/budgetify
